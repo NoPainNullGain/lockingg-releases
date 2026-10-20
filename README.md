@@ -18,8 +18,6 @@ Installed copies update themselves.
 
 Needs Windows 10 or 11, a graphics card with 6 GB of video memory or more, a microphone and a headset.
 
-The coach runs on your PC. Only your champion and role are sent to OP.GG, for builds; you can turn that off.
-
 ---
 
 lockin.gg isn't endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games or
